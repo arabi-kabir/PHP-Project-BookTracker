@@ -1,0 +1,74 @@
+
+
+#sidebar{
+    padding: 0;
+}
+#heading{
+    background-color: #203035;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    color: white;
+    font-weight: 200;
+}
+#menu-list{
+    background-color: #25373D;
+    padding: 20px 10px;
+}
+#menu-list li{
+    padding: 5px;
+}
+#menu-list li:hover{
+    background-color: #60646D;
+
+}
+#menu-list a{
+    text-decoration: none;
+    font-size: 135%;
+    color: white;
+    font-weight: 200;
+}
+#logout-btn{
+    margin: 15px 0px; 
+}
+#content{
+    background-color: #344146;
+}
+#username{
+    font-size: 120%;
+    color: #2CC990;
+    padding-left: 5px;
+    background-color: #121b1d;
+    padding: 8px;
+}
+#all-book-list{
+    margin-top: 18px;
+}
+.table-header{
+    text-align: center;
+    background-color: #0a3d62;
+    font-weight: 200;
+    font-size: 110%;
+}
+.thisbtn{
+    text-align: center;
+}
+.activelink{
+    background-color: teal;
+}
+#page_number{
+    text-align: center;
+}
+#search-book{
+    margin-top: 18px;
+}
+#search-label{
+    font-size: 140%;
+    color: white;
+    margin-top: 5px;
+    font-weight: 200;
+    margin-left: 20px;
+}
+#todaybookalert{
+    margin-top: 18px;
+}

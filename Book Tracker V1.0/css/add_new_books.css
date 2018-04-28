@@ -1,0 +1,72 @@
+
+
+#sidebar{
+    padding: 0;
+}
+#heading{
+    background-color: #203035;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    color: white;
+    font-weight: 200;
+}
+#menu-list{
+    background-color: #25373D;
+    padding: 20px 10px;
+}
+#menu-list li{
+    padding: 5px;
+}
+#menu-list li:hover{
+    background-color: #60646D;
+
+}
+#menu-list a{
+    text-decoration: none;
+    font-size: 135%;
+    color: white;
+    font-weight: 200;
+}
+#logout-btn{
+    margin: 15px 0px; 
+}
+#content{
+    background-color: #344146;
+}
+#username{
+    font-size: 120%;
+    color: #2CC990;
+    padding-left: 5px;
+    background-color: #121b1d;
+    padding: 8px;
+}
+#all-book-list{
+    margin-top: 18px;
+}
+.table-header{
+    text-align: center;
+    background-color: #0a3d62;
+    font-weight: 200;
+    font-size: 110%;
+}
+.thisbtn{
+    text-align: center;
+}
+.activelink{
+    background-color: teal;
+}
+#add_book{
+    margin: 0 auto;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    max-width: 500px;
+    color: white;
+    font-size: 120%;
+    text-align: center;
+    padding: 50px;
+    background-color: #283235;
+}
+label{
+    margin-top: 10px;
+}
